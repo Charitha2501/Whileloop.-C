@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    char str1[100], str2[100];
+    int i = 0, result =
+        }
+        i++;
+    }
+
+    // If strings are equal
+    if (result == 0 && str1[i] == str2[i]) {
+        printf("The strings are equal.\n");
+    } else {
+        printf("The strings are not equal.\n");
+    }
+
+    return 0;
+}
