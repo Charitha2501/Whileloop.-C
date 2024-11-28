@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+// Function to display a message
+void displayMessage() {
+    printf("Hello, welcome to the world of C programming!\n");
+}
+
+int main() {
+    displayMessage();  // Function call
+    return 0;
+}
